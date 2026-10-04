@@ -4,12 +4,7 @@ Aplicativo Android de agendamento para barbearias, salões de beleza e estética
 
 Trabalho 2 da disciplina de Desenvolvimento para Dispositivos Móveis.
 
-Integrantes: [NOME 1], [NOME 2], [NOME 3]
-
-A documentação do processo e das decisões do trio está em [PROCESSO.md](PROCESSO.md).
-
-> **[PRINT 00]** `docs/imagens/00-capa.png`
-> Duas ou três telas do aplicativo lado a lado, para abrir o README. Dá para montar colando os prints do emulador em uma imagem só.
+Integrantes: Gabriel Valenga Silva
 
 ---
 
@@ -26,7 +21,7 @@ A documentação do processo e das decisões do trio está em [PROCESSO.md](PROC
 1. Clone o repositório:
 
 ```
-git clone https://github.com/[USUARIO]/[REPOSITORIO].git
+git clone https://github.com/Gabriel-Vs20/Trabalho_2_kotlin/
 ```
 
 2. No Android Studio, use File > Open e aponte para a pasta raiz do projeto, aquela que contém o arquivo `settings.gradle.kts`. Não abra a pasta `app` direto, o Gradle não monta o módulo dessa forma.
