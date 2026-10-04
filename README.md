@@ -4,7 +4,7 @@ Aplicativo Android de agendamento para barbearias, salões de beleza e estética
 
 Trabalho 2 da disciplina de Desenvolvimento para Dispositivos Móveis.
 
-Integrantes: Gabriel Valenga Silva
+Integrantes: Gabriel Valenga Silva, Rafael Moura Machado
 
 ---
 
